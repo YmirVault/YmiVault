@@ -53,11 +53,6 @@ Rediger
 
 ---
 
-**Tips:**
-- Du kan senere legge inn SVG-logoen eller ASCII-kunsten vi laget, om ønskelig.
-- Denne versjonen er optimalisert for GitHub-profiler: informativ, kul, humoristisk, og profesjonell.
-
-**Når du er klar for neste steg (f.eks. Twitter, Discord, osv.), bare gi beskjed!** 🚀
 
 
 
