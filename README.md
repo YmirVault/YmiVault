@@ -41,20 +41,6 @@ $ sudo sacrifice --coffee=dark_roast
 $ echo "energydrink" | openssl aes-256-cbc  
 "Half Viking, half debugger—full-blown chaos. Crafting AI, crypto bots, and dad jokes while captaining ships and negotiating snack treaties with tiny overlords."
 
-yaml
-Kopier
-Rediger
-
----
-
-### 🔥 **Steg 3 – Publiser profilen**
-- Commit og push denne `README.md`-filen.
-- Gå til GitHub-profilen din (f.eks.: github.com/YmiVault). Du vil nå se denne teksten som en automatisk introduksjon.
-
----
-
-
-
 
 
 
